@@ -1,7 +1,7 @@
 # Primer CSS Labels
 
 [![NPM version](http://img.shields.io/npm/v/primer-labels.svg)](https://www.npmjs.org/package/primer-labels)
-[![Build Status](https://travis-ci.org/primer/labels.svg?branch=master)](https://travis-ci.org/primer/labels)
+[![Build Status](https://travis-ci.org/primer/primer-labels.svg?branch=master)](https://travis-ci.org/primer/primer-labels)
 
 > Labels add metatdata or indicate status of items and navigational elements.
 
@@ -37,6 +37,7 @@ $ npm run build
 
 <!-- %docs
 title: Labels
+status_issue: https://github.com/github/design-systems/issues/332
 status: New release
 -->
 
