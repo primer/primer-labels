@@ -1,3 +1,8 @@
+# HEAD
+
+ * add feedback issue link to readme - broccolini [github/github@3b69fea](https://github.com/github/github/commit/3b69fea)
+ * correct travis ci url - broccolini [github/github@6538109](https://github.com/github/github/commit/6538109)
+
 # v1.0.0
 
  * update outlined to outline - broccolini [github/github@a40b29a](https://github.com/github/github/commit/a40b29a)
