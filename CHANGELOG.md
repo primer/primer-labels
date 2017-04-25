@@ -1,5 +1,12 @@
-# HEAD
+# v1.1.0
 
+ * remove icon size because it's overkill - broccolini [github/github@e20af9c](https://github.com/github/github/commit/e20af9c)
+ * add new modifier and use octicons in examples - broccolini [github/github@b208b57](https://github.com/github/github/commit/b208b57)
+ * em padding for better alignment - broccolini [github/github@21b2c0f](https://github.com/github/github/commit/21b2c0f)
+ * bump to minor because of new functionality - broccolini [github/github@a2a48f8](https://github.com/github/github/commit/a2a48f8)
+ * add State--small modifier - broccolini [github/github@7233380](https://github.com/github/github/commit/7233380)
+ * bump patch version - broccolini [github/github@ebe45c9](https://github.com/github/github/commit/ebe45c9)
+ * fix typo in readme - broccolini [github/github@1f1ff91](https://github.com/github/github/commit/1f1ff91)
  * add feedback issue link to readme - broccolini [github/github@3b69fea](https://github.com/github/github/commit/3b69fea)
  * correct travis ci url - broccolini [github/github@6538109](https://github.com/github/github/commit/6538109)
 
