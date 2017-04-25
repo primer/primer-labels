@@ -24,3 +24,12 @@
 .State--purple { background-color: $bg-purple; }
 
 .State--red { background-color: $red-600; }
+
+.State--small {
+  padding: 0.125em $spacer-1;
+  font-size: $h6-size;
+
+  .octicon {
+    width: 1em; // Ensures different icons don't change State indicator width
+  }
+}
